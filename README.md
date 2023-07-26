@@ -5,8 +5,10 @@ Front End created using React and Vite for a Technical Assignment.
 ## Running the application in dev mode
 
 To run the application: 
+```
     npm install
     npm run dev
+```
 
 Make sure to configure the dotenv file with the correct API url
 
