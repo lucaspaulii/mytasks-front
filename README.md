@@ -1,6 +1,6 @@
 # MyTasks
 
-Front End created using React and Vite for a Technical Assignment.
+Front End created using React and Vite.
 
 ## Running the application in dev mode
 
